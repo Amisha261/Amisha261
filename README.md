@@ -1,3 +1,4 @@
+![logo](https://github.com/Amisha261/Amisha261/blob/main/images.jpeg)
 <h1 align="center">Hi 👋, I'm Amisha shah</h1>
 <h3 align="center">A passionate Data Scientist and Software Developer from India</h3>
 
