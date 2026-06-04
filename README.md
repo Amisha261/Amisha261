@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amisha shah</h1>
-<h3 align="center">A passionate Data Scientist and Software Developer from India</h3>
+<h3 align="center">A passionate Data Analyst and Business Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
