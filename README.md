@@ -10,9 +10,5 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BIy12vhcz0Dnp8l2Myph6EjsKGCCaV9g/view?usp=sharing](https://drive.google.com/file/d/1H2i3oGlNLf5FrZMLThgkIW5H8LHI53ti/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amisha shah" target="blank"><img align="center" src="https://drive.google.com/file/d/1H2i3oGlNLf5FrZMLThgkIW5H8LHI53ti/view?usp=sharing" alt="amisha shah" height="30" width="40" /></a>
-</p>
 
  
